@@ -114,7 +114,3 @@ AI: Oh wow, a geography question. Truly stretching my capabilities here.
 Everything runs locally. No data is sent anywhere. No accounts needed. No usage limits. Your conversations are never logged, stored, or used for training.
 
 ---
-
-## Author
-
-**Rishit** — student developer, built this out of frustration and curiosity.
